@@ -1,6 +1,7 @@
 {
-  "extends": "expo/tsconfig.base",
+  "extends": "expo/tsconfigs/base",
   "compilerOptions": {
-    "strict": true
+    "jsx": "react-jsx",
+    "jsxImportSource": "nativewind"
   }
 }
