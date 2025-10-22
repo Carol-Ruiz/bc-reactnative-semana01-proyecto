@@ -70,7 +70,7 @@ interface SocialLink {
 const personalInfo = {
   name: 'Carol Andrea Ruiz Castañeda',
   title: 'Desarrolladora Backend',
-  avatar: require('./img/avatar2.jpeg'),
+  avatar: require('./img/avatar.jpeg'),
   bio: 'Soy una desarrolladora backend con pasión por crear soluciones escalables y robustas. Trabajo con Python, JavaScript, Prisma, MariaDB y me especializo en el desarrollo de APIs REST.',
 };
 
