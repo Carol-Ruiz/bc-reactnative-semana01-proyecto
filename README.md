@@ -129,7 +129,7 @@ Muestra una galería de proyectos desarrollados o ideas futuras.
 
 **Carol Ruiz**  
 📅 Fecha: 21/10/2025  
-Desarrolladora en formación | Proyecto Integrador Semana 1  
+Desarrolladora en formación | Proyecto Semana 1  
 🌐 [GitHub: Carol-Ruiz](https://github.com/Carol-Ruiz)
 
 ---
