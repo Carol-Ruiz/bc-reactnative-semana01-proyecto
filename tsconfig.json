@@ -1,7 +1,16 @@
 {
-  "extends": "expo/tsconfigs/base",
   "compilerOptions": {
-    "jsx": "react-jsx",
-    "jsxImportSource": "nativewind"
-  }
+    "jsx": "react-jsx",  
+    "jsxImportSource": "nativewind",  
+    "strict": true, 
+    "esModuleInterop": true,  
+    "skipLibCheck": true,  
+  },
+  "include": [
+    "src/**/*",  
+    "node_modules/nativewind/types"  
+  ],
+  "exclude": [
+    "node_modules"  
+  ]
 }
